@@ -1,0 +1,3 @@
+{'Monkey': {'_physical': None, '_name': None, '_age': None, '_who': 'Monkey'}}
+{'Dryopithecus': {'_physical': None, '_name': None, '_age': None, '_who': 'Dryopithecus'}}
+{'CroMagnon': {'_physical': None, '_name': None, '_age': None, '_who': 'CroMagnon'}}
